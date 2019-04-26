@@ -1,0 +1,13 @@
+{
+  "name": "stl-splitter",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@jscad/csg": "git+https://github.com/jeremy-brenner/csg.js.git#fix-center-non-uniform-geometry",
+    "@jscad/stl-deserializer": "^0.3.3",
+    "@jscad/stl-serializer": "^0.2.0"
+  },
+  "dependencies": {}
+}
